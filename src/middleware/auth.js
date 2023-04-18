@@ -1,6 +1,6 @@
 //=====================Importing Module and Packages=====================//
 const JWT = require('jsonwebtoken')
-const userModel = require("../models/userModel")
+const userModel = require("../models/userModel.js")
 const validator = require('../validator/validator.js')
 
 
